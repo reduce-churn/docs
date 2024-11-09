@@ -1,6 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Reduce Churn",
+  "metadata": {
+    "og:image": "https://s1.reducechurn.co/opengraph.png"
+  },
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"

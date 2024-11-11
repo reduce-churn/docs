@@ -1,8 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Reduce Churn",
+  "name": "Reducechurn",
   "metadata": {
-    "og:image": "https://s1.reducechurn.co/opengraph.png"
+    "og:image": "https://s1.reducechurn.co/opengraph.png",
+    "description": "Learn how to configure Reducechurn to prevent customer churn. Step-by-step guide for setting up data integration, customer segments, and retention workflows for your subscription business."
   },
   "logo": {
     "dark": "/logo/dark.svg",
@@ -38,7 +39,7 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://reducechurn.co/docs/"
+      "url": "https://docs.reducechurn.co/"
     },
     {
       "name": "Blog",
